@@ -20,7 +20,7 @@ Details about how to use this project will be documented here.
 Details about projects structure will be documented here.
 
 ## Contributing
-We welcome contributions to the AHMR-Lab project. Please feel free to submit issues and pull requests.
+N/A
 
 ## License
 [License information to be added]
